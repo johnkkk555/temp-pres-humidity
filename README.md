@@ -1,10 +1,10 @@
 //This is a script to measure data from 3 sensors and shows them
 
-// BME
-// VIN -> 3V
-// GND -> GND
-// SCK -> SCL
-// SDI -> SDA
+BME
+VIN -> 3V
+GND -> GND
+SCK -> SCL
+SDI -> SDA
 
 // TCS34725
 // 3V3 -> 3V
